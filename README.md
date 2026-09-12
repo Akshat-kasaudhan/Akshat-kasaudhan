@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋, I'm Akshat Gupta
 
-<!--
-**Akshat-kasaudhan/Akshat-kasaudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student  
+🤖 Aspiring Machine Learning Engineer  
+💻 Learning Python, Machine Learning, NLP, SQL & Data Structures
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Currently pursuing B.Tech in Computer Science & Engineering (Data Science)
+- 🌱 Currently learning Machine Learning and NLP
+- 💻 Practicing Data Structures & Algorithms
+- 🗄️ Learning SQL and Data Analysis
+- 🚀 Building real-world ML projects
+- 🎯 Preparing for software / ML internships
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- Python
+- C++
+- SQL
+
+### Data Science & Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- Machine Learning
+- NLP
+- Data Visualization
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## 🔥 Current Project
+
+### Resume–Job Matching & Skill Gap Analyzer
+
+An NLP-based machine learning project that analyzes a resume against a job description and identifies:
+
+- Resume–job similarity
+- Matching skills
+- Missing skills
+- Skill gaps
+- Resume improvement areas
+
+Currently under development 🚧
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+NLP
+   ↓
+ML Projects
+   ↓
+Deployment
